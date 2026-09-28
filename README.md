@@ -1,6 +1,6 @@
 # kubectl Command Builder
 
-**Live demo:** https://babug01.github.io/kubectl-command-builder/
+**Live demo:** https://kubectl-command-builder.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/kubectl-command-builder/)
 
 Pick a verb, resource type, name/namespace, and the flags that verb actually supports — get the
 exact `kubectl` command assembled and ready to copy, instead of reconstructing it from memory or
